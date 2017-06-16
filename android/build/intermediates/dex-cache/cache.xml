@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/thunderat/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_dbf5e3c5ebcc028d0e5823e35926393b1896effa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/thunderat/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_8a28e39672bfe1e76db98fe0d20dfdc0b96c3b5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_1d46d8fae648ce210d6ac42a1de3a24d35f5c779.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/thunderat/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_2aa28641060c6050628b090e4a923d199960588e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_eb51b2c51e69f474d6d494e58728c6704652e344.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/thunderat/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_1762aca896c8f6c4ca7ffa8244890cf83fb3dec9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_052ff3f04497e5f43c4f56e8901f540c8fbada58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_0210eacadd2b7524a48e7c89d2e04758e7ebda92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.45.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0d3e48e200296061415952a358fad487e129adaa">
+        <dex dex="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.45.1_b27ea2db8eb3a1e9e930a6309b0a9d7920bda535.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/thunderat/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_c8373bcd68300f24e7efcfece872e2f8e565d2e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_aebc767e8580e6b19a884575d13cffb9d50b716a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_30d3cbe5ff6f85e282d6c66c3b49abd369158ae2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_fc2da70fe0fc4ef84247ce92dd71bd071cab6673.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_93a70f842926d4b76428fc8b65dfb18a9c15a1c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/thunderat/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_db76eec34bf1cb803bfea624b8e9ba7065ce0cae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/thunderat/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_8473c45b76f2a0aca28c13c214e757918b1123b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/exploded-aar/android_facebook_sdk_example/react-native-fbsdk/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ab21d671b8141323ff03a2552c1f1daac8e34a89">
+        <dex dex="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/pre-dexed/debug/android_facebook_sdk_example-react-native-fbsdk-unspecified_56d1b92837eef3c760341c2b4a442c979093d1d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_db6c44745100d67a54f49dd562b2f89a754ecee4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_887356a05ab1af0f73b99a137913799086e127c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_f7ca2dfa4ff3d74db30bb6bcdcc24cce9a344430.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/exploded-aar/com.android.support/customtabs/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/pre-dexed/debug/com.android.support-customtabs-25.0.0_051bc7810f65c091788f7758bde3e5aa9fca5156.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/thunderat/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_e24e388e0987f07a93fa4799b1cd241f5756c7f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_5fdbd675ad62e4fabeaea7f5fcbdb34595061265.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_16b779ff00ba658c8159276e450252cc96ba753e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_dcbce98c2bc4e1c4baa121fe80cb0495433ed2fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.45.1/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_740363ac1bd2f716657efd1fb7e07778320e3d48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/thunderat/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_05c019a75c85d1aef2f7d8409207fbffa22e2bf0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_387dd53ff91635e28dc000cd23e057e148c6962d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.0.0_e85f5057ddc8470d5d51fcfdd2940f81892c154d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_f3b26cd030f19c70736ef068b24ef09fa42a0281.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_a78294b2172dc078b51710f9ba003fe512c92f13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/thunderat/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.4.0_94c6c1431351a29013007cccec3a5b7376284c7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.22.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d5cbc9214ee567ea6ef56fb2707d48e58d240fc2">
+        <dex dex="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-android-sdk-4.22.1_a3bb73673ca7516de45d6daf7605b60c5f372acb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_46a6326849a217e3915a20f70cb76fce0ab635fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_9b72f0f407a81bc845c57641221a2a5161ca37a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_e915a7eeace312be7c8a6f83733cb01e252f4140.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_0c891ee90b6eb9c2dc0751eecd490a5e278f0641.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/home/thunderat/react_project/android_facebook_sdk_example/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_d2168d3e1fbb62d4e980e6083f7254b62efddad7.jar" />
+    </item>
+
+</items>
