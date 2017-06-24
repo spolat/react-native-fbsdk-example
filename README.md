@@ -24,7 +24,6 @@ react-native link react-native-fbsdk
 ### Before you can run the project, follow the [Getting Started Guide](https://developers.facebook.com/docs/android/getting-started/)
 
 #### 3 Android project
-Assuming you have [Android Studio](http://developer.android.com/sdk/index.html) installed, open the project with Android Studio.
 
 **If your react-native version is below 0.29.0**
 
